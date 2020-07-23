@@ -1,3 +1,3 @@
-# TiltedIllusion
+# TiltIllusion
 
-This is a simple convolusional neural network trained for tilted illusion
+This is a simple convolusional neural network trained for tilt illusion
